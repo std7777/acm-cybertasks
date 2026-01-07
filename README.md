@@ -43,6 +43,5 @@ The response clearly indicates successful authorization.
 
 The cookie can also be modified in the developer tools in a broswer.
 <img width="1920" height="1200" alt="Screenshot 2026-01-07 211656" src="https://github.com/user-attachments/assets/05cb7094-34a0-47d1-ab08-c06516a211a5" />
-<img width="1920" height="1200" alt="Screenshot 2026-01-07 211502" src="https://github.com/user-attachments/assets/d957fb16-c1ab-444e-a820-72b91bd050d2" />
-
+<img width="875" height="431" alt="Screenshot 2026-01-07 211502" src="https://github.com/user-attachments/assets/fab2726c-4208-4c49-a111-7efcd132dce0" />
 
