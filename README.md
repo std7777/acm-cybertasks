@@ -55,7 +55,7 @@ The encoded JWT was then placed back into the cookie and the request is sent.
 <img width="1920" height="1200" alt="Screenshot 2026-01-07 211737" src="https://github.com/user-attachments/assets/81200461-dddd-4e1a-9d04-0998aa83e9ab" />
 <img width="773" height="223" alt="Screenshot 2026-01-07 211811" src="https://github.com/user-attachments/assets/b913e741-b3d5-4d46-97db-1c7262d00256" />
 
-The response clearly indicates successful authorization.🎉🎉
+The response clearly indicates successful authorization.
 
 
 The cookie can also be modified in the developer tools in a broswer.
