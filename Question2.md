@@ -13,10 +13,10 @@ flag obtained: ACM{1_kn0w_051n7}
 
 3. On investigating these clues we find a lead on X.com on the account @AncientDragon05.
    The profile contained further clues:
-      link was present in the bio
-      The term “vinegar”, hinting at a cipher
-      The word “dracula”
-      Removal of the letter “h”
+    - link was present in the bio
+    - The term “vinegar”, hinting at a cipher
+    - The word “dracula”
+    - Removal of the letter “h”
 
    <img width="740" height="991" alt="image" src="https://github.com/user-attachments/assets/2ad4fe79-a621-44c5-9e7e-856ca7258d6b" />
 
